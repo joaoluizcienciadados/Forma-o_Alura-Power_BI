@@ -2,6 +2,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:joaoluizcienciadedados@gmail.com) 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
+![Capa](https://github.com/joaoluizcienciadados/Formacao_Alura-Power_BI/blob/main/ferramentas/pngtree-green-light-streak-in-blue-image_133552765.jpg)
+
 <sup> 🔗 Visite também >> [Portfólio de Ciência da Computação](https://github.com/joaoluizdev/) </sup>
 
 
