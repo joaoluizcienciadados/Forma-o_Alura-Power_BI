@@ -36,15 +36,15 @@ Registro que esse é meu primeiro contato com Power BI, portanto espero que os e
 **Dashboard:**  
 
 <details>
-<summary>Conteúdo</summary></summary>
-
+<summary>Conteúdo</summary>
+  
 - Entenda o conceito de Business Intelligence;
 - Instale a ferramenta Power BI desktop;
 - Importe dados de diferentes formatos e realize o tratamento deles no Power Query;
 - Crie colunas, cálculos e medidas;
 - Crie e utilize gráficos e visuais;
 - Monte e estruture um Dashboard;
-- Publique o seu Dashboard na web.  
+- Publique o seu Dashboard na web.   
 </details>
 
 ---
@@ -56,19 +56,36 @@ Registro que esse é meu primeiro contato com Power BI, portanto espero que os e
 **Dashboard:**  
 
 <details>
-<summary>Conteúdo</summary></summary>
+<summary>Conteúdo</summary>
 
-- Identifique gráficos apropriados para as necessidades específicas;  
-- Construa gráficos dentro do Power BI;  
-- Compreenda as possibilidades de como importar visuais externos;  
-- Aplique conceitos de data visualization para comunicar informações de forma eficaz;  
-- Compreenda como trabalhar com séries temporais;  
-- Elabore mapas com os conceitos de latitude e longitude;  
+- Identifique gráficos apropriados para as necessidades específicas;
+- Construa gráficos dentro do Power BI;
+- Compreenda as possibilidades de como importar visuais externos;
+- Aplique conceitos de data visualization para comunicar informações de forma eficaz;
+- Compreenda como trabalhar com séries temporais;
+- Elabore mapas com os conceitos de latitude e longitude;
 - Sintetize todos os visuais em um relatório no Power Bi com navegação entre páginas.  
 </details>
 
 ---
-3- Power BI Desktop: tratamento de dados no Power Query;  
+### [3- Power BI Desktop: tratamento de dados no Power Query](https://github.com/joaoluizcienciadados/Formacao_Alura-Power_BI/tree/main/3-%20Power_BI_Desktop-tratamento_de_dados_no_Power_Query) 
+**Professor:**  [David Neves](https://www.linkedin.com/in/david-neves-04b543185/)  
+**Carga horária:** 8h   
+**Situação:** Concluído  
+**Certificado:** [Clique aqui](https://cursos.alura.com.br/user/joaoluizcienciacomp/course/power-bi-desktop-tratamento-de-dados-power-query/certificate)  
+**Dashboard:**  
+
+<details>
+<summary>Conteúdo</summary></summary>  
+  
+- Realize conexões a arquivos e banco de dados;
+- Conheça e utilize o Power Query Editor;
+- Entenda o que é a linguagem M;
+- Transforme os dados de diversas formas;
+- Realize tratamentos e carga dos dados visando boas práticas.  
+</details>
+
+---
 4- Power BI: DAX contextos e iteração;  
 5- Power BI: aprofundando na linguagem DAX;  
 6- Power BI: explorando recursos visuais;  
