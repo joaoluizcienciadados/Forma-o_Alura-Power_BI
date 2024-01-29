@@ -86,7 +86,26 @@ Registro que esse é meu primeiro contato com Power BI, portanto espero que os e
 </details>
 
 ---
-4- Power BI: DAX contextos e iteração;  
+### [4- Power BI: DAX contextos e iteração](https://github.com/joaoluizcienciadados/Formacao_Alura-Power_BI/tree/main/4-%20Power%20BI%3A%20DAX%20contextos%20e%20itera%C3%A7%C3%A3o)
+**Professor:**  [Daniel Siqueira](https://www.linkedin.com/in/daniel-p-siqueira-79b2001ba/)  
+**Carga horária:** 8h   
+**Situação:** 
+**Certificado:**   
+**Dashboard:**  
+
+<details>
+<summary>Conteúdo</summary></summary>  
+  
+- Aprenda como criar colunas calculadas e medidas;
+- Entenda como lidar com erros no DAX;
+- Reconheça quando deve utilizar uma coluna calculada ou medida;
+- Compreenda o conceito de agregação;
+- Conheça o contexto de filtro e de linha;
+- Compreenda as funções iteradoras no DAX;
+- Aprenda a utilizar variáveis.
+</details>
+
+---
 5- Power BI: aprofundando na linguagem DAX;  
 6- Power BI: explorando recursos visuais;  
 7- Power BI: Report Builder;  
