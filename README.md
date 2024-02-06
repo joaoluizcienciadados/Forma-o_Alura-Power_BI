@@ -89,8 +89,8 @@ Registro que esse é meu primeiro contato com Power BI, portanto espero que os e
 ### [4- Power BI: DAX contextos e iteração](https://github.com/joaoluizcienciadados/Formacao_Alura-Power_BI/tree/main/4-%20Power%20BI%3A%20DAX%20contextos%20e%20itera%C3%A7%C3%A3o)
 **Professor:**  [Daniel Siqueira](https://www.linkedin.com/in/daniel-p-siqueira-79b2001ba/)  
 **Carga horária:** 8h   
-**Situação:** 
-**Certificado:**   
+**Situação:** Concluído  
+**Certificado:** [Clique aqui](https://cursos.alura.com.br/user/joaoluizcienciacomp/course/power-bi-dax-contextos-iteracao/certificate)  
 **Dashboard:**  
 
 <details>
