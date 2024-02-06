@@ -106,7 +106,25 @@ Registro que esse é meu primeiro contato com Power BI, portanto espero que os e
 </details>
 
 ---
-5- Power BI: aprofundando na linguagem DAX;  
+### [5- Power BI: aprofundando na linguagem DAX](https://cursos.alura.com.br/course/power-bi-aprofundando-linguagem-dax) 
+**Professor:**  [Igor Nascimento Alves](https://www.linkedin.com/in/igor-nascimento-alves-145910127/)  
+**Carga horária:**    
+**Situação:**   
+**Certificado:** Em andamento  
+**Dashboard:**  
+
+<details>
+<summary>Conteúdo</summary></summary>  
+  
+- Aprenda como criar colunas calculadas e medidas;
+- Entenda como o contexto é afetado pelos filtros;
+- Crie medida com a função CALCULATE;
+- Combinar a função CALCULATE para obter medidas elaboradas;
+- Entenda como a função CALCULATE sobrescreve ou agrega com outros filtros.
+</details>
+
+
+---
 6- Power BI: explorando recursos visuais;  
 7- Power BI: Report Builder;  
 8- Power BI: conhecendo o serviço.  
